@@ -4,13 +4,15 @@
 
 This is the Github page for lecture AAE4203, Guidance and Navigation. This page will include the example code, and some learning materials. More importantly, students can raise issues from this Github repository, through `issue` item.
 
-**Lecturer**: [Dr. Weisong Wen](https://www.polyu.edu.hk/aae/people/academic-staff/dr-wen-weisong/)
-**Adddress**: PQ408, PolyU. 
-**Email**: welson.wen@polyu.edu.hk
-**Teaching Assistant**: Ruijie Xu, Xikun Liu, Yuan Li, Yihan Zhong. 
-**Lecture Venue and Time**: BC303, Thu 15:30-18:20
+- **Lecturer**: [Dr. Weisong Wen](https://www.polyu.edu.hk/aae/people/academic-staff/dr-wen-weisong/)
+- **Adddress**: PQ408, PolyU. 
+- **Email**: welson.wen@polyu.edu.hk
+- **Teaching Assistant**: Ruijie Xu, Xikun Liu, Yuan Li, Yihan Zhong. 
+- **Lecture Venue and Time**: BC303, Thu 15:30-18:20
 
 ## Lecture outline 
+
+Naigui, please update the outline here...
 
 ## Table of Contents
 - [AAE4203, Guidance and Navigation](#aae4203-guidance-and-navigation)
