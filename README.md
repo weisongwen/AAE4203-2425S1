@@ -13,6 +13,7 @@ This is the Github page for lecture AAE4203, Guidance and Navigation. This page 
 ## Lecture outline 
 
 ## Class Schedule
+
 <table style="margin: auto;">
   <tr>
     <th style="text-align: center;">Sem. Week</th>
@@ -21,16 +22,16 @@ This is the Github page for lecture AAE4203, Guidance and Navigation. This page 
   </tr>
   <tr>
     <td style="text-align: center;">Week 1</td>
-    <td style="text-align: center;">Fundamental concepts</td>
+    <td style="text-align: center;"><a href="http://google.com" target="_blank">Fundamental concepts</td>
     <td rowspan="6" style="text-align: center;">Assignment 1</td>
   </tr>
   <tr>
     <td style="text-align: center;">Week 2</td>
-    <td style="text-align: center;">Satellite Navigation-I (GNSS SPP, linear least squares)</td>
+    <td style="text-align: center;"><a href="http://google.com" target="_blank">Satellite Navigation-I (GNSS SPP, linear least squares)</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">Week 3</td>
-    <td style="text-align: center;">Satellite Navigation-II (GNSS Doppler, linear least squares for velocity estimation)</td>
+    <td style="text-align: center;"><a href="http://google.com" target="_blank">Satellite Navigation-II (GNSS Doppler, linear least squares for velocity estimation)</a></td>
 
   </tr>
   <tr>
@@ -39,15 +40,15 @@ This is the Github page for lecture AAE4203, Guidance and Navigation. This page 
   </tr>
   <tr>
     <td style="text-align: center;">Week 5</td>
-    <td style="text-align: center;">Satellite Navigation-III (GNSS RTK, DGNSS, linear least squares for RTK estimation)</td>
+    <td style="text-align: center;"><a href="http://google.com" target="_blank">Satellite Navigation-III (GNSS RTK, DGNSS, linear least squares for RTK estimation)</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">Week 6</td>
-    <td style="text-align: center;">Tutorial on Coding with Python for GNSS positioning</td>
+    <td style="text-align: center;"><a href="http://google.com" target="_blank">Tutorial on Coding with Python for GNSS positioning</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">Week 7</td>
-    <td style="text-align: center;">Visual positioning I: Visual feature detection and tracking</td>
+    <td style="text-align: center;"><a href="http://google.com" target="_blank">Visual positioning I: Visual feature detection and tracking</a></td>
     <td></td>
   </tr>
   <tr>
@@ -57,15 +58,15 @@ This is the Github page for lecture AAE4203, Guidance and Navigation. This page 
   </tr>
   <tr>
     <td style="text-align: center;">Week 9</td>
-    <td style="text-align: center;">Visual positioning II: visual pose estimation</td>
+    <td style="text-align: center;"><a href="http://google.com" target="_blank">Visual positioning II: visual pose estimation</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">Week 10</td>
-    <td style="text-align: center;">Kalman filtering for GNSS positioning and sensor integration: part I</td>
+    <td style="text-align: center;"><a href="http://google.com" target="_blank">Kalman filtering for GNSS positioning and sensor integration: part I</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">Week 11</td>
-    <td style="text-align: center;">Kalman filtering for GNSS positioning and sensor integration: part II</td>
+    <td style="text-align: center;"><a href="http://google.com" target="_blank">Kalman filtering for GNSS positioning and sensor integration: part II</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">Week 12</td>
@@ -78,6 +79,22 @@ This is the Github page for lecture AAE4203, Guidance and Navigation. This page 
     <td rowspan="1" style="text-align: center;">Group Presentation & Report</td>
   </tr>
 </table>
+
+| Sem. Week | Topics Taught | Assessment |
+|-----------|---------------|------------|
+| Week 1    | [Fundamental concepts](http://google.com) | Assignment 1 |
+| Week 2    | [Satellite Navigation-I (GNSS SPP, linear least squares)](http://google.com) | Assignment 1 |
+| Week 3    | [Satellite Navigation-II (GNSS Doppler, linear least squares for velocity estimation)](http://google.com) | Assignment 1 |
+| Week 4    | No Lectures | Assignment 1 |
+| Week 5    | [Satellite Navigation-III (GNSS RTK, DGNSS, linear least squares for RTK estimation)](http://google.com) | Assignment 1 |
+| Week 6    | [Tutorial on Coding with Python for GNSS positioning](http://google.com) | Assignment 1 |
+| Week 7    | [Visual positioning I: Visual feature detection and tracking](http://google.com) |  |
+| Week 8    | Mid-term | Assignment 2 |
+| Week 9    | [Visual positioning II: visual pose estimation](http://google.com) | Assignment 2 |
+| Week 10   | [Kalman filtering for GNSS positioning and sensor integration: part I](http://google.com) | Assignment 2 |
+| Week 11   | [Kalman filtering for GNSS positioning and sensor integration: part II](http://google.com) | Assignment 2 |
+| Week 12   | Case Study Presentation | Group Presentation & Report |
+| Week 13   | Case Study Presentation | Group Presentation & Report |
 
 ## Table of Contents
 - [AAE4203, Guidance and Navigation](#aae4203-guidance-and-navigation)
