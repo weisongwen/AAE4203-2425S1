@@ -4,6 +4,11 @@
 
 This is the Github page for lecture AAE4203, Guidance and Navigation. This page will include the example code, and some learning materials. More importantly, students can raise issues from this Github repository, through [Issue](https://github.com/weisongwen/AAE4203-2425S1/issues) item.
 
+<p align="center">
+  <img width="600" src="/img/logo.jpeg">
+</p>
+<center> 3D LiDAR Aided GNSS Positioning for Robotics Urban Navigation​ </center>
+
 - **Lecturer**: [Dr. Weisong Wen](https://www.polyu.edu.hk/aae/people/academic-staff/dr-wen-weisong/), [Departmnet of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/aae/) (AAE)
 - **Adddress**: PQ408, PolyU. 
 - **Email**: welson.wen@polyu.edu.hk
