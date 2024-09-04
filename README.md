@@ -28,19 +28,8 @@ This is the Github page for lecture AAE4203, Guidance and Navigation. This page 
 | Week 12   | Case Study Presentation | Group Presentation & Report |
 | Week 13   | Case Study Presentation | Group Presentation & Report |
 
-## Table of Contents
-- [AAE4203, Guidance and Navigation](#aae4203-guidance-and-navigation)
-- [Class Schedule](#class-schedule)
-- [Table of Contents](#table-of-contents)
-- [Lecture Materials](#lecture-materials)
-- [Contact](#contact)
-  - [General Inquiry](#general-inquiry)
-
-## Lecture Materials
-- [Lecture Notes](PolyU_AAE4203/Lecture_Notes)
-- [Lecture Videos](PolyU_AAE4203/Lecture_Videos)
-- [Sample Codes](PolyU_AAE4203/Sample_Codes)
-- [General Doucuments](PolyU_AAE4203/General_Doucuments)
+## Questions
+Students can raise issues from this Github repository, through [Issue](https://github.com/weisongwen/AAE4203-2425S1/issues) item.
   
 <!-- ## Students Tasks -->
 
