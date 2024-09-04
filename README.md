@@ -10,75 +10,7 @@ This is the Github page for lecture AAE4203, Guidance and Navigation. This page 
 - **Teaching Assistant**: Ruijie Xu, Xikun Liu, Yuan Li, Yihan Zhong. 
 - **Lecture Venue and Time**: BC303, Thu 15:30-18:20
 
-## Lecture outline 
-
 ## Class Schedule
-
-<table style="margin: auto;">
-  <tr>
-    <th style="text-align: center;">Sem. Week</th>
-    <th style="text-align: center;">Topics Taught</th>
-    <th style="text-align: center;">Assessment</th>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Week 1</td>
-    <td style="text-align: center;"><a href="http://google.com" target="_blank">Fundamental concepts</td>
-    <td rowspan="6" style="text-align: center;">Assignment 1</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Week 2</td>
-    <td style="text-align: center;"><a href="http://google.com" target="_blank">Satellite Navigation-I (GNSS SPP, linear least squares)</a></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Week 3</td>
-    <td style="text-align: center;"><a href="http://google.com" target="_blank">Satellite Navigation-II (GNSS Doppler, linear least squares for velocity estimation)</a></td>
-
-  </tr>
-  <tr>
-    <td style="text-align: center;">Week 4</td>
-    <td style="text-align: center;">No Lectures</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Week 5</td>
-    <td style="text-align: center;"><a href="http://google.com" target="_blank">Satellite Navigation-III (GNSS RTK, DGNSS, linear least squares for RTK estimation)</a></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Week 6</td>
-    <td style="text-align: center;"><a href="http://google.com" target="_blank">Tutorial on Coding with Python for GNSS positioning</a></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Week 7</td>
-    <td style="text-align: center;"><a href="http://google.com" target="_blank">Visual positioning I: Visual feature detection and tracking</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Week 8</td>
-    <td style="text-align: center;">Mid-term</td>
-    <td rowspan="4" style="text-align: center;">Assignment 2</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Week 9</td>
-    <td style="text-align: center;"><a href="http://google.com" target="_blank">Visual positioning II: visual pose estimation</a></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Week 10</td>
-    <td style="text-align: center;"><a href="http://google.com" target="_blank">Kalman filtering for GNSS positioning and sensor integration: part I</a></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Week 11</td>
-    <td style="text-align: center;"><a href="http://google.com" target="_blank">Kalman filtering for GNSS positioning and sensor integration: part II</a></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Week 12</td>
-    <td style="text-align: center;">Case Study Presentation</td>
-    <td rowspan="1" style="text-align: center;">Group Presentation & Report</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Week 13</td>
-    <td style="text-align: center;">Case Study Presentation</td>
-    <td rowspan="1" style="text-align: center;">Group Presentation & Report</td>
-  </tr>
-</table>
 
 | Sem. Week | Topics Taught | Assessment |
 |-----------|---------------|------------|
@@ -98,7 +30,6 @@ This is the Github page for lecture AAE4203, Guidance and Navigation. This page 
 
 ## Table of Contents
 - [AAE4203, Guidance and Navigation](#aae4203-guidance-and-navigation)
-- [Lecture outline](#lecture-outline)
 - [Class Schedule](#class-schedule)
 - [Table of Contents](#table-of-contents)
 - [Lecture Materials](#lecture-materials)
