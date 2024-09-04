@@ -82,6 +82,5 @@ def update(frame):
     return []
 
 # Create the animation
-ani = FuncAnimation(fig, update, frames=len(intermediate_results), init_func=init, blit=False, repeat=False)
-
-plt.show()
+anim = FuncAnimation(fig, update, frames=len(intermediate_results), init_func=init, blit=False, repeat=False)
+anim.save('rtt_ls.gif', writer='pillow')
