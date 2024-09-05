@@ -19,8 +19,8 @@ def error_perpendicular(p, x, y):
 def fit_line_LLSE(points):
     x = points[:, 0]
     y = points[:, 1]
-    p0=[1,20]
-    Para=leastsq(error_vertical,p0,args=(x,y))
+    initial_guess = [1,1]
+    Para=leastsq(error_vertical,initial_guess,args=(x,y))
     k, b = Para[0]
     print("line function: y =",k," * x + ",b)
     return k, b
@@ -28,8 +28,8 @@ def fit_line_LLSE(points):
 def fit_line_LSE(points):
     x = points[:, 0]
     y = points[:, 1]
-    p0=[1,20]
-    Para=leastsq(error_perpendicular,p0,args=(x,y))
+    initial_guess = [1,1]
+    Para=leastsq(error_perpendicular,initial_guess,args=(x,y))
     k, b = Para[0]
     print("line function: y =",k," * x + ",b)
     return k, b
