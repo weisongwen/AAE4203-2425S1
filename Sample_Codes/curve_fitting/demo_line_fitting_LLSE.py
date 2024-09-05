@@ -100,8 +100,8 @@ class MainObject:
         self.canvas.create_text(convas_width - 20, 15, text='X', anchor='w')
         self.canvas.create_oval(-5, -5, 5, 5, outline='green', width=2)
 
-        input_Button = Button(root, text ="Insert Points & Plot Curve", command = self.curve_fit)
-        input_Button.pack()
+        # input_Button = Button(root, text ="Insert Points & Plot Curve", command = self.curve_fit)
+        # input_Button.pack()
 
         self.points = []
         self.draggingPoint = None
@@ -148,7 +148,7 @@ class MainObject:
         if len(self.points) < 2:
             return
         points = array([self.canvas.pos(p) for p in self.points])
-        tmp_k, tmp_b = fit_line(points)
+        tmp_k, tmp_b = fit_line_LLSE(points)
         self.canvas.create_fit_line(tmp_k, tmp_b, tag='best_fit_line')
         
 if __name__ == '__main__':

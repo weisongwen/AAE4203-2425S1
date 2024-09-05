@@ -7,14 +7,29 @@ def func(p, x):
     k,b = p
     return k * x + b
 
-def error(p, x, y):
+def error_vertical(p, x, y):
     return func(p, x) - y
 
-def fit_line(points):
+def error_perpendicular(p, x, y):
+    a = p[0]
+    b = p[1]
+    # perpendicular offsets
+    return (a * x + b - y) / np.sqrt(a**2 + 1) 
+
+def fit_line_LLSE(points):
     x = points[:, 0]
     y = points[:, 1]
     p0=[1,20]
-    Para=leastsq(error,p0,args=(x,y))
+    Para=leastsq(error_vertical,p0,args=(x,y))
+    k, b = Para[0]
+    print("line function: y =",k," * x + ",b)
+    return k, b
+
+def fit_line_LSE(points):
+    x = points[:, 0]
+    y = points[:, 1]
+    p0=[1,20]
+    Para=leastsq(error_perpendicular,p0,args=(x,y))
     k, b = Para[0]
     print("line function: y =",k," * x + ",b)
     return k, b
