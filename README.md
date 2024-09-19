@@ -15,7 +15,7 @@ This is the Github page for lecture AAE4203, Guidance and Navigation. This page 
 
 | Sem. Week | Topics Taught | Assessment |
 |-----------|---------------|------------|
-| Week 1    | [Fundamental concepts](http://google.com), [(Code: WiFi RTT, Least_Square)](https://github.com/weisongwen/AAE4203-2425S1/tree/main/Sample_Codes/Wifi_RTT), [(Lecture Note)](Lecture_Notes/Week 1 [Fundermental Concepts] Dr. Weisong Wen (20240904).pdf) | Assignment 1 |
+| Week 1    | [Fundamental concepts](http://google.com), [(Code: WiFi RTT, Least_Square)](https://github.com/weisongwen/AAE4203-2425S1/tree/main/Sample_Codes/Wifi_RTT), [Lecture Note](https://github.com/weisongwen/AAE4203-2425S1/blob/main/Lecture_Notes/Week%201%20%5BFundermental%20Concepts%5D%20Dr.%20Weisong%20Wen%20(20240904).pdf) | Assignment 1 |
 | Week 2    | [Satellite Navigation-I (GNSS SPP, linear least squares)](http://google.com) | Assignment 1 |
 | Week 3    | [Satellite Navigation-II (GNSS Doppler, linear least squares for velocity estimation)](http://google.com) | Assignment 1 |
 | Week 4    | No Lectures | Assignment 1 |
