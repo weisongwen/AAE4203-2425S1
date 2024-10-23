@@ -20,7 +20,7 @@ This is the Github page for lecture AAE4203, Guidance and Navigation. This page 
 | Week 3    | Satellite Navigation-II (GNSS Doppler, linear least squares for velocity estimation): [Lecture Note](https://github.com/weisongwen/AAE4203-2425S1/blob/main/Lecture_Notes/Week%202%20%5BSatellite%20Navigation%5D%20(20240907)(1).pdf), [Video]() | Assignment 1 |
 | Week 4    | No Lectures | Assignment 1 |
 | Week 5    | Satellite Navigation-III (GNSS RTK, DGNSS, linear least squares for RTK estimation): [Lecture Note](https://github.com/weisongwen/AAE4203-2425S1/blob/main/Lecture_Notes/Week%202%20%5BSatellite%20Navigation%5D%20(20240907)(1).pdf), [Video](https://www.youtube.com/watch?v=cw0ygogTAMQ&t=5s)| Assignment 1 |
-| Week 6    | Tutorial on Coding with Python for GNSS positioning: [lab](https://github.com/weisongwen/AAE4203-2425S1/blob/main/lab/GNSS%20Navigation%20Lab.docx)| Assignment 1 |
+| Week 6    | Tutorial on Coding with Python for GNSS positioning: [lab](https://github.com/weisongwen/AAE4203-2425S1/blob/main/lab/GNSS%20Navigation%20Lab.pdf)|Assignment 1 |
 | Week 7    | Satellite Navigation-IV：[Lecture Note](https://github.com/weisongwen/AAE4203-2425S1/blob/main/Lecture_Notes/Week%203%20%5BSatellite%20Navigation%5D%20(20240909).pdf)|Assignment 1 |
 | Week 8    | Mid-term | Assignment 1 Deadline (24 Oct)|
 | Week 9    | [Visual positioning II: visual pose estimation](http://google.com) | Assignment 2 |
