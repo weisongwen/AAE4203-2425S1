@@ -24,7 +24,7 @@ This is the Github page for lecture AAE4203, Guidance and Navigation. This page 
 | Week 7    | Satellite Navigation-IV：[Lecture Note](https://github.com/weisongwen/AAE4203-2425S1/blob/main/Lecture_Notes/Week%203%20%5BSatellite%20Navigation%5D%20(20240909).pdf)|[Assignment 1](https://github.com/weisongwen/AAE4203-2425S1/blob/main/Lecture_Notes/AAE4203%20Assignment%201%20(20241008)(1).pdf) |
 | Week 8    | Mid-term | [Assignment 1](https://github.com/weisongwen/AAE4203-2425S1/blob/main/Lecture_Notes/AAE4203%20Assignment%201%20(20241008)(1).pdf) Deadline (24 Oct)|
 | Week 9    | [Visual positioning II: visual pose estimation](http://google.com) | Assignment 2 |
-| Week 10   | [Kalman filtering for GNSS positioning and sensor integration: part I](http://google.com) | Assignment 2 |
+| Week 10   | [Kalman filtering for GNSS positioning and sensor integration: part I]: [Lecture Note](https://github.com/weisongwen/AAE4203-2425S1/blob/main/Lecture_Notes/Week%2010%20%5BState%20Estimation%20I%5D%206%20Nov%20Dr.%20Wen%20-%20Short.pdf) | Assignment 2 |
 | Week 11   | [Kalman filtering for GNSS positioning and sensor integration: part II](http://google.com) | Assignment 2 |
 | Week 12   | Case Study Presentation | Group Presentation & Report |
 | Week 13   | Case Study Presentation | Group Presentation & Report |
