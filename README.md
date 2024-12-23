@@ -1,6 +1,6 @@
 <!-- <font  size=6><b><center>PolyU_AAE4203</center></b></font> -->
 
-## AAE4203, Guidance and Navigation
+## AAE4203, Guidance and Navigation 
 
 This is the Github page for lecture AAE4203, Guidance and Navigation. This page will include the example code, and some learning materials. More importantly, students can raise issues from this Github repository, through [Issue](https://github.com/weisongwen/AAE4203-2425S1/issues) item.
 
